@@ -1,0 +1,596 @@
+[
+  {
+    "name": "5854cd65-1fee-429a-a10b-c9ffb22ac481",
+    "principalId": "d61f4e1e-6db6-4efa-a162-588431ddf021",
+    "principalType": "User",
+    "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9"
+  },
+  {
+    "name": "54274c95-1ef4-4176-a8df-347551fa17b0",
+    "principalId": "cb61b22b-1ea0-43fa-9045-db7228337cd0",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "73c42c96-874c-492b-b04d-ab87d138a893"
+  },
+  {
+    "name": "b010bf49-2015-4d53-97ab-efb382df8811",
+    "principalId": "acd28510-7e7c-403b-b229-77f266631473",
+    "principalType": "Group",
+    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635"
+  },
+  {
+    "name": "dac6c7b5-2787-41e4-b137-37e9aa047c1f",
+    "principalId": "d58aa431-49a5-4250-aa5a-27f851e358a0",
+    "principalType": "User",
+    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635"
+  },
+  {
+    "name": "4f196d3c-2e0f-49c4-af54-88cdb1ed0281",
+    "principalId": "f88e29fb-db19-4ac3-b107-02347920a41d",
+    "principalType": "User",
+    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635"
+  },
+  {
+    "name": "a81dde24-428e-49f4-987e-38ce06c44208",
+    "principalId": "a6604fc2-6153-481c-b63c-bc44ad271e9a",
+    "principalType": "User",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "e75737e6-811a-4eb0-945f-8b560ce98b53",
+    "principalId": "b5820cf4-f786-4495-936e-2f2723a9d434",
+    "principalType": "User",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "521b76c9-75ca-470a-992d-906001569a6a",
+    "principalId": "d6ce9c5b-e62e-4a9f-8e9a-97630c91eb14",
+    "principalType": "User",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "b29ae41f-2311-4fa0-bf0c-ccc140e39c62",
+    "principalId": "a74e10cc-41e3-4ba1-8eab-9a3396531623",
+    "principalType": "User",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "33d5c1da-c518-484f-a334-e7203201531a",
+    "principalId": "9af1acee-0f93-404d-8c61-7cbd589b08d4",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "8713bc2d-516b-4b58-81c1-e7ba2c8817df",
+    "principalId": "e2459c9b-e238-46e3-8d58-134f79495475",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "b7842cc9-d445-4845-b8bf-3f33f523844b",
+    "principalId": "e2459c9b-e238-46e3-8d58-134f79495475",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "ba92f5b4-2d11-453d-a403-e96b0029c9fe"
+  },
+  {
+    "name": "2a64fb0f-295e-4c9f-a0c5-da7510cdd03e",
+    "principalId": "493d8ffa-2fdb-468e-a403-02c327bf9537",
+    "principalType": "User",
+    "roleDefinitionId": "749f88d5-cbae-40b8-bcfc-e573ddc772fa"
+  },
+  {
+    "name": "3fcf30f3-4b90-48c4-afcb-a79dd728b422",
+    "principalId": "4030d715-c500-4f02-92f1-29b36cc0b30c",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9"
+  },
+  {
+    "name": "326b064e-f439-480b-a00a-914bde96a373",
+    "principalId": "c108fd56-55bc-4e64-b367-7c06762d9cba",
+    "principalType": "Group",
+    "roleDefinitionId": "5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b"
+  },
+  {
+    "name": "d16c4d61-3970-4746-ba98-74d6601b0212",
+    "principalId": "bad2e498-00e3-416a-9c13-80602ac76961",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "1fa1d526-8c5c-47c2-994e-916ab236e739",
+    "principalId": "5a951c35-aab8-4740-b71a-6912e587bbe1",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "1aa30bce-75a1-4bf2-9fc7-f29801b9659c",
+    "principalId": "5a335244-3aa3-4c2c-bfac-2a858a5dda09",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "4939a1f6-9ae0-4e48-a1e0-f2cbe897382d"
+  },
+  {
+    "name": "86031382-53c5-48d7-aa4c-2365f92181a7",
+    "principalId": "b1958e69-c84b-4dc4-a944-96b98c9479a0",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "d79433c1-5b5d-4ff7-bc86-e640985b7251",
+    "principalId": "47bf1a56-de7a-4a0e-84ed-5e07b6e09d27",
+    "principalType": "Group",
+    "roleDefinitionId": "4939a1f6-9ae0-4e48-a1e0-f2cbe897382d"
+  },
+  {
+    "name": "13039e0a-f439-46a8-8656-c838b9a50cfb",
+    "principalId": "47bf1a56-de7a-4a0e-84ed-5e07b6e09d27",
+    "principalType": "Group",
+    "roleDefinitionId": "d3881f73-407a-4167-8283-e981cbba0404"
+  },
+  {
+    "name": "88445a32-f831-441f-bed1-c69f5485a392",
+    "principalId": "b1958e69-c84b-4dc4-a944-96b98c9479a0",
+    "principalType": "Group",
+    "roleDefinitionId": "5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b"
+  },
+  {
+    "name": "b3c4ed95-1ec6-4422-8217-d5468a228c3f",
+    "principalId": "b1958e69-c84b-4dc4-a944-96b98c9479a0",
+    "principalType": "Group",
+    "roleDefinitionId": "4abbcc35-e782-43d8-92c5-2d3f1bd2253f"
+  },
+  {
+    "name": "dcc32ff5-3991-402c-859e-acb35b3cf82f",
+    "principalId": "1ff11f4c-7095-415d-9e68-43b99a5b6d70",
+    "principalType": "Group",
+    "roleDefinitionId": "4abbcc35-e782-43d8-92c5-2d3f1bd2253f"
+  },
+  {
+    "name": "af11bb8d-7f29-423b-b171-81066127a0c6",
+    "principalId": "1ff11f4c-7095-415d-9e68-43b99a5b6d70",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "5e167c13-e448-48d3-94d3-f93f0a371f69",
+    "principalId": "47bf1a56-de7a-4a0e-84ed-5e07b6e09d27",
+    "principalType": "Group",
+    "roleDefinitionId": "21090545-7ca7-4776-b22c-e363652d74d2"
+  },
+  {
+    "name": "34c86784-9af7-4d38-bbb1-db5f787ee0d4",
+    "principalId": "bb24cccc-ebc8-43a3-90d7-3de935727b72",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "4fe576fe-1146-4730-92eb-48519fa6bf9f"
+  },
+  {
+    "name": "ec798017-ccfe-42ce-a892-b4fa8b8feaef",
+    "principalId": "c30ef4ca-af7b-4cff-99a8-be6bb37a5e12",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "b0e53b31-3a82-4683-82ad-cdc990bf50a4",
+    "principalId": "fad73ef0-b77f-45e6-85e4-75295a2213d2",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "f49b47bf-2a5c-44a8-879a-2de48fe2e54f",
+    "principalId": "c108fd56-55bc-4e64-b367-7c06762d9cba",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "a85b8034-3c98-43f6-847b-729bb2607b97",
+    "principalId": "2a25858b-7573-42d2-b82b-bd5619b0f400",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "5179c942-5b7b-4123-bbff-162b8dadcde3",
+    "principalId": "2a25858b-7573-42d2-b82b-bd5619b0f400",
+    "principalType": "Group",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "e8b3bfc2-3c8b-4ae8-995d-a708100b797f",
+    "principalId": "1ff11f4c-7095-415d-9e68-43b99a5b6d70",
+    "principalType": "Group",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "148784b3-a6bc-48dd-80fd-06093c18af36",
+    "principalId": "c30ef4ca-af7b-4cff-99a8-be6bb37a5e12",
+    "principalType": "Group",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "c11e270c-4d83-479e-b5cb-339c759551c8",
+    "principalId": "c108fd56-55bc-4e64-b367-7c06762d9cba",
+    "principalType": "Group",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "5ea0e2b9-9707-4396-94f1-13b0303d25cc",
+    "principalId": "ed117315-6e4e-4e28-a43b-8aa0d48b0907",
+    "principalType": "Group",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "e9272fb2-1579-43d8-bbba-66c7fe4dd030",
+    "principalId": "c30ef4ca-af7b-4cff-99a8-be6bb37a5e12",
+    "principalType": "Group",
+    "roleDefinitionId": "516239f1-63e1-4d78-a4de-a74fb236a071"
+  },
+  {
+    "name": "15ed88b2-595b-4e74-87cb-1f03e3da9ae0",
+    "principalId": "ed117315-6e4e-4e28-a43b-8aa0d48b0907",
+    "principalType": "Group",
+    "roleDefinitionId": "516239f1-63e1-4d78-a4de-a74fb236a071"
+  },
+  {
+    "name": "7eeb7bfd-925b-401b-8537-4e88f49f1823",
+    "principalId": "1ff11f4c-7095-415d-9e68-43b99a5b6d70",
+    "principalType": "Group",
+    "roleDefinitionId": "516239f1-63e1-4d78-a4de-a74fb236a071"
+  },
+  {
+    "name": "5fdf986b-e981-4acf-a3ae-92de2e0c7020",
+    "principalId": "fad73ef0-b77f-45e6-85e4-75295a2213d2",
+    "principalType": "Group",
+    "roleDefinitionId": "5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b"
+  },
+  {
+    "name": "202253cf-e74c-4cca-a300-8b9fe9c486e4",
+    "principalId": "2a25858b-7573-42d2-b82b-bd5619b0f400",
+    "principalType": "Group",
+    "roleDefinitionId": "5ae67dd6-50cb-40e7-96ff-dc2bfa4b606b"
+  },
+  {
+    "name": "89a6b9f3-0fd0-4da8-9ca2-66d8f52f622e",
+    "principalId": "47bf1a56-de7a-4a0e-84ed-5e07b6e09d27",
+    "principalType": "Group",
+    "roleDefinitionId": "73c42c96-874c-492b-b04d-ab87d138a893"
+  },
+  {
+    "name": "4f76db6f-0414-46f3-9285-694d6e23f2a2",
+    "principalId": "5a335244-3aa3-4c2c-bfac-2a858a5dda09",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "36550dec-ad2c-4484-a18e-0116cb7b6c24",
+    "principalId": "5c88ee60-e7fd-47ba-9ccb-7c3955a41ca9",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "91e616d5-5592-4344-9398-1d89a3904d02",
+    "principalId": "ab436125-5684-4c84-b857-d119ffce4ad5",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "88e2612f-8dd0-4131-adea-2022a98287fb",
+    "principalId": "7ccafa0b-7ab9-4c01-87c2-e13514aaebfd",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "9ddcfc8a-dfb6-4416-9066-259b3e6e05f1",
+    "principalId": "8179959e-e38e-4bb8-9a1e-a77e36518df2",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "5ed2d14b-49e6-4608-a768-7c9fc31321e8",
+    "principalId": "e42e19dd-25fd-4e0c-a390-b8873c4aad37",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "cfa12df5-013e-449a-a2dd-8faebfcb2bdf",
+    "principalId": "c3197a2e-e709-4169-a4fc-da6d759e4bf9",
+    "principalType": "User",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "c4d707d1-d750-4500-9bfa-a7ec5b83ac9c",
+    "principalId": "c108fd56-55bc-4e64-b367-7c06762d9cba",
+    "principalType": "Group",
+    "roleDefinitionId": "420fcaa2-552c-430f-98ca-3264be4806c7"
+  },
+  {
+    "name": "d91ca70e-162e-426a-8778-1f489f83a2fd",
+    "principalId": "1ff11f4c-7095-415d-9e68-43b99a5b6d70",
+    "principalType": "Group",
+    "roleDefinitionId": "420fcaa2-552c-430f-98ca-3264be4806c7"
+  },
+  {
+    "name": "ca49a4fe-18d9-4382-9a76-f16ece79da94",
+    "principalId": "01ea748c-ef60-4260-a025-fc50c39fff99",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "8dbab1d5-a19b-43a1-8ddb-720bfd219c91",
+    "principalId": "f9f0dee7-4cdd-4f34-bd76-2ad2635cf958",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "056cd41c-7e88-42e1-933e-88ba6a50c9c3"
+  },
+  {
+    "name": "8dbab1d5-a19b-43a1-8ddb-720bfd219c93",
+    "principalId": "f9f0dee7-4cdd-4f34-bd76-2ad2635cf958",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "92aaf0da-9dab-42b6-94a3-d43ce8d16293"
+  },
+  {
+    "name": "02cce8d8-ff45-4f00-9f73-480e4193d7a9",
+    "principalId": "493d8ffa-2fdb-468e-a403-02c327bf9537",
+    "principalType": "User",
+    "roleDefinitionId": "36243c78-bf99-498c-9df9-86d9f8d28608"
+  },
+  {
+    "name": "7fae3834-6c64-4809-843b-f34dbc5cfebe",
+    "principalId": "d9bc5f5d-97da-4a33-9366-b398f76e98f0",
+    "principalType": "User",
+    "roleDefinitionId": "36243c78-bf99-498c-9df9-86d9f8d28608"
+  },
+  {
+    "name": "73806e73-f42c-4402-8de8-5b7a43c0c337",
+    "principalId": "21d8b258-0826-46bc-a062-ffa3e275ca81",
+    "principalType": "Group",
+    "roleDefinitionId": "5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c"
+  },
+  {
+    "name": "b3eb4283-c197-4396-aa83-bf1f57f7a3d5",
+    "principalId": "21d8b258-0826-46bc-a062-ffa3e275ca81",
+    "principalType": "Group",
+    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635"
+  },
+  {
+    "name": "b27a26d7-58a1-43e4-a93d-2398314d2bb6",
+    "principalId": "4030d715-c500-4f02-92f1-29b36cc0b30c",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9"
+  },
+  {
+    "name": "b0391169-0c96-4555-8feb-66ee2b285ce0",
+    "principalId": "958eeb6e-4bc1-400b-a800-b8f755f23c26",
+    "principalType": "Group",
+    "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9"
+  },
+  {
+    "name": "51b6867c-e94f-4cbb-a52e-c39a4500a242",
+    "principalId": "958eeb6e-4bc1-400b-a800-b8f755f23c26",
+    "principalType": "Group",
+    "roleDefinitionId": "36243c78-bf99-498c-9df9-86d9f8d28608"
+  },
+  {
+    "name": "14a8381d-bd15-4d1a-bc72-fe3b236faa66",
+    "principalId": "958eeb6e-4bc1-400b-a800-b8f755f23c26",
+    "principalType": "Group",
+    "roleDefinitionId": "41077137-e803-4205-871c-5a86e6a753b4"
+  },
+  {
+    "name": "0fc9ace9-2eb5-48db-801a-64b181130b4e",
+    "principalId": "6f47c186-a685-4a64-a724-1a254bd8fb2b",
+    "principalType": "Group",
+    "roleDefinitionId": "434105ed-43f6-45c7-a02f-909b2ba83430"
+  },
+  {
+    "name": "7a9747f3-12dc-4306-8697-3c600cf6d978",
+    "principalId": "958eeb6e-4bc1-400b-a800-b8f755f23c26",
+    "principalType": "Group",
+    "roleDefinitionId": "437d2ced-4a38-4302-8479-ed2bcb43d090"
+  },
+  {
+    "name": "acfcd903-789f-4a5b-b03e-6573ef753a4f",
+    "principalId": "958eeb6e-4bc1-400b-a800-b8f755f23c26",
+    "principalType": "Group",
+    "roleDefinitionId": "5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c"
+  },
+  {
+    "name": "15c5b228-eb5e-4372-a777-75a96fa19f6d",
+    "principalId": "45ac8a63-be08-41cd-b63c-69bc4aab0621",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "37f586d2-9307-4067-9223-78f3c8428f23",
+    "principalId": "66ff7d44-9e2d-4509-b8d1-6ab1ef7bcb67",
+    "principalType": "User",
+    "roleDefinitionId": "5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c"
+  },
+  {
+    "name": "b755306b-a9a5-46b9-bcdf-fa1241ead287",
+    "principalId": "19f981c2-a0df-4164-a309-d2ebd9528c0b",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "eda54586-6c20-4239-a967-b74a6112ede5",
+    "principalId": "0783877e-a3c6-434d-94d8-0dc50c332829",
+    "principalType": "Group",
+    "roleDefinitionId": "fb1c8493-542b-48eb-b624-b4c8fea62acd"
+  },
+  {
+    "name": "d0f02d3c-323f-4b72-a65f-bb1ea6bff8ba",
+    "principalId": "3aab110a-c12d-4e6f-bbdf-3f6faf3d50c0",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "b4d8f1d1-3125-475e-9673-3960a42449b1",
+    "principalId": "91f14d44-39af-4a3c-938a-ec621c26e43e",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "cc7d71b7-243a-4e00-9ee4-a5fc969cb602",
+    "principalId": "626a84a2-c3f7-4972-8bc6-2f4a9efa3044",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "3220cd9f-a116-49ab-b429-b8c49ccf5c93",
+    "principalId": "4fb3c8be-3010-4947-8728-2626f1b37357",
+    "principalType": "Group",
+    "roleDefinitionId": "437d2ced-4a38-4302-8479-ed2bcb43d090"
+  },
+  {
+    "name": "435e3242-7b38-42fc-bc55-99505a41c52b",
+    "principalId": "e8ff74bd-c713-4f62-b927-2131c5bbd4ec",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "d5614789-5774-4741-9572-d04d1ffdbae2",
+    "principalId": "2cede0ad-6bb7-4f42-a577-83586f152eb9",
+    "principalType": "User",
+    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635"
+  },
+  {
+    "name": "4b39ab99-ea0f-4719-bdc5-febd3dcfd936",
+    "principalId": "26efc293-0433-4d27-bdad-9ed5fba6485e",
+    "principalType": "User",
+    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635"
+  },
+  {
+    "name": "6015c4a9-edae-4088-be01-bcf2ca4b7cd7",
+    "principalId": "8312dcee-9c4b-4bfe-8402-3afeb1317443",
+    "principalType": "User",
+    "roleDefinitionId": "8e3af657-a8ff-443c-a75c-2fe8c4bcb635"
+  },
+  {
+    "name": "37c86c7f-5b44-4f77-8381-76b14750cc48",
+    "principalId": "25018a51-57c6-4c79-b2ca-74896cc934c5",
+    "principalType": "Group",
+    "roleDefinitionId": "8056c50e-f0b4-4751-a781-2e8e641b8186"
+  },
+  {
+    "name": "00639f1c-5748-44e3-b987-366556985793",
+    "principalId": "baf1be32-6e41-42b3-83ad-768a0bb962c8",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "dc6fb529-e437-452f-a501-8ef0770d59eb",
+    "principalId": "0365c2b4-35eb-4e51-b913-6024cdedf08c",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "7944e7ab-cb7c-4302-8940-6eae72db5cd5",
+    "principalId": "dd7848ce-3a86-4898-844a-ef21b94480d0",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "794314bf-6dfa-472f-afb8-a9a731aace0f"
+  },
+  {
+    "name": "24e5c93b-5a52-4c5d-9596-7be6138a649d",
+    "principalId": "dd7848ce-3a86-4898-844a-ef21b94480d0",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "4abbcc35-e782-43d8-92c5-2d3f1bd2253f"
+  },
+  {
+    "name": "49e80864-2dbf-4f64-b603-78e519c36055",
+    "principalId": "dd7848ce-3a86-4898-844a-ef21b94480d0",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "7f6c6a51-bcf8-42ba-9220-52d62157d7db"
+  },
+  {
+    "name": "c2e2cfb1-431d-4f44-aef0-72703ad7bd84",
+    "principalId": "dd7848ce-3a86-4898-844a-ef21b94480d0",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "53bd52ec-7211-4ab9-95e0-856d49772d08",
+    "principalId": "3982f90a-117d-4415-87dc-4b650270a5a9",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "deb985f4-35b3-4c8d-b3a6-e93fc24774f2"
+  },
+  {
+    "name": "54da3bef-edec-45a4-b9c7-2bf25b7028ce",
+    "principalId": "24733f1f-8719-4e7c-8618-5837e0d610ce",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c"
+  },
+  {
+    "name": "2a59728b-a60e-4380-8fbf-73d80eb6309c",
+    "principalId": "5595e486-4cb5-4b04-9116-4a6e8d3a3b26",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "3eb5b8a3-e256-4ab8-96f0-5c199bd120d9",
+    "principalId": "d29fa4f7-0af6-4b71-ae98-37b7057e4377",
+    "principalType": "Group",
+    "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9"
+  },
+  {
+    "name": "e0977395-8bff-410a-ae53-2249b8d21c84",
+    "principalId": "555a5c31-c79d-4d9c-984e-dfa642b97470",
+    "principalType": "Group",
+    "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9"
+  },
+  {
+    "name": "c2f2f1e1-92aa-4732-bd0a-a27dac39ad49",
+    "principalId": "d43afea0-99d2-478e-bdf6-64bcda333cf9",
+    "principalType": "Group",
+    "roleDefinitionId": "5d58bcaf-24a5-4b20-bdb6-eed9f69fbe4c"
+  },
+  {
+    "name": "da723ae6-1875-4d9a-bba9-dafce820cfee",
+    "principalId": "d43afea0-99d2-478e-bdf6-64bcda333cf9",
+    "principalType": "Group",
+    "roleDefinitionId": "350f8d15-c687-4448-8ae1-157740a3936d"
+  },
+  {
+    "name": "13f4eee4-cb6e-4d03-8024-815c03faa80d",
+    "principalId": "003d7813-e27d-4826-a257-858cd066e69c",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "d9cf5f95-8c1b-4aa0-b4e7-e993b0cdf002",
+    "principalId": "555a5c31-c79d-4d9c-984e-dfa642b97470",
+    "principalType": "Group",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "4f12fd2c-723e-4838-a26f-63e7939e1601",
+    "principalId": "f2aae8cd-43bb-4931-b4e3-a4102ec1c5fd",
+    "principalType": "Group",
+    "roleDefinitionId": "36243c78-bf99-498c-9df9-86d9f8d28608"
+  },
+  {
+    "name": "04ad74cc-fc87-4e50-982d-c484ece3e015",
+    "principalId": "555a5c31-c79d-4d9c-984e-dfa642b97470",
+    "principalType": "Group",
+    "roleDefinitionId": "36243c78-bf99-498c-9df9-86d9f8d28608"
+  },
+  {
+    "name": "dbbf58d0-c8ed-45ff-ad43-7b39e456e941",
+    "principalId": "380f82d2-a506-4aa8-9554-a7f05beb2d4f",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
+  },
+  {
+    "name": "14b0ef4a-04fc-4ae3-a0ed-c9ed6f341050",
+    "principalId": "d47d5d4a-d7a9-4997-8e18-217ee3eb1697",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
+  },
+  {
+    "name": "867ae2ef-2d99-41f2-a14e-cf5675c8ecf7",
+    "principalId": "303e52c5-eeba-49da-a631-19cd1a95055a",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "fa23ad8b-c56e-40d8-ac0c-ce449e1d2c64"
+  },
+  {
+    "name": "840c99ad-6933-4ab2-8155-406e65d7b41a",
+    "principalId": "303e52c5-eeba-49da-a631-19cd1a95055a",
+    "principalType": "ServicePrincipal",
+    "roleDefinitionId": "72fafb9e-0641-4937-9268-a91bfd8191a3"
+  }
+]
