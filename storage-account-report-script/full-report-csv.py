@@ -65,23 +65,48 @@ def get_role_assignment_and_definition(resource_url):
     return role_assignments, role_definitions
 
 def get_user_group_service_details(principal_id, principal_type):
-    command = None
+    # Load existing users from the JSON file
+    try:
+        with open('./users.json', 'r') as file:
+            users_data = json.load(file)
+    except FileNotFoundError:
+        users_data = {}
+
+    # Check if the user is already in the JSON file
+    if principal_id in users_data:
+        display_name = users_data[principal_id]
+        return display_name, principal_type
+
+    # If not, query Azure CLI to get user details
     if principal_type == "User":
         command = f'az ad {principal_type.lower()} show --id {principal_id} --output json'
     elif principal_type == "Group":
         command = f'az ad {principal_type.lower()} show --group {principal_id} --output json'
     elif principal_type == "ServicePrincipal":
         command = f'az ad sp show --id {principal_id} --output json'
-
-    if command:
-        details = execute_az_command(command)
-        return details.get('displayName') if details else None, principal_type
     else:
         return None
 
+    details = execute_az_command(command)
+
+    if details:
+        display_name = details.get('displayName')
+        if display_name:
+            # Save the user to the JSON file in the root directory
+            users_data[principal_id] = display_name
+            with open('./users.json', 'w') as file:
+                json.dump(users_data, file, indent=2)
+
+            return display_name, principal_type
+    else:
+        # Handle the case where details are not available
+        return None, None
+
 def generate_report_csv(subscription_and_resources):
     timestamp = datetime.today().strftime('%Y-%m-%d')
-    report_directory = './storage-account-csv-report'
+
+    # Create the 'report' directory if it doesn't exist
+    report_directory = './report'
     os.makedirs(report_directory, exist_ok=True)
 
     for subscription, storage_accounts in subscription_and_resources.items():
@@ -121,7 +146,12 @@ def generate_report_csv(subscription_and_resources):
 
                 df = pd.DataFrame(data)
 
-                csv_filename = f"{report_directory}/{storage_account_name}_{timestamp}.csv"
+                # Create the 'storage-account-csv-report' directory if it doesn't exist
+                csv_directory = os.path.join(report_directory, 'storage-account-csv-report')
+                os.makedirs(csv_directory, exist_ok=True)
+
+                # Export to CSV
+                csv_filename = f"{csv_directory}/{storage_account_name}_{timestamp}.csv"
                 df.to_csv(csv_filename, index=False)
                 print(f"CSV file exported: {csv_filename}")
 
